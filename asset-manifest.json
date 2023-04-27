@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.8d035096.css",
-    "main.js": "/static/js/main.e9716ddc.js",
+    "main.js": "/static/js/main.b7bffd9c.js",
     "static/js/787.e1b1f52c.chunk.js": "/static/js/787.e1b1f52c.chunk.js",
+    "static/media/Amit-Sarah-Pal-Resume.pdf": "/static/media/Amit-Sarah-Pal-Resume.a95d2304d9a7b7ef2582.pdf",
     "static/media/hanumat_logo.png": "/static/media/hanumat_logo.1583d62003cd5a61b36a.png",
     "static/media/logo.png": "/static/media/logo.1583d62003cd5a61b36a.png",
-    "static/media/fw21_1161-Amit-Sarah-Pal-Resume.pdf": "/static/media/fw21_1161-Amit-Sarah-Pal-Resume.0163662d38a05dd44155.pdf",
     "static/media/vscode.png": "/static/media/vscode.9bc6e588b5f2b867a8a4.png",
     "static/media/typescript.png": "/static/media/typescript.17936c69824e11a996c4.png",
     "static/media/Dsa.png": "/static/media/Dsa.24991eee32623f453b1c.png",
@@ -20,15 +20,16 @@
     "static/media/express.png": "/static/media/express.551b076d3a202df33a0c.png",
     "static/media/redux-seeklogo.com.svg": "/static/media/redux-seeklogo.com.a95675408ae17c456965e2f09376c31a.svg",
     "static/media/next-js-seeklogo.com.svg": "/static/media/next-js-seeklogo.com.b0a63a12331e68f98f0080c0751b309d.svg",
+    "static/media/threejs.svg": "/static/media/threejs.34faec932f70929fc2778eaf26de073c.svg",
     "index.html": "/index.html",
     "static/media/mongodb-seeklogo.com.svg": "/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "static/media/npm.876.svg": "/static/media/npm.876.87689eab730642c86d2b01f3ef4a19e3.svg",
     "main.8d035096.css.map": "/static/css/main.8d035096.css.map",
-    "main.e9716ddc.js.map": "/static/js/main.e9716ddc.js.map",
+    "main.b7bffd9c.js.map": "/static/js/main.b7bffd9c.js.map",
     "787.e1b1f52c.chunk.js.map": "/static/js/787.e1b1f52c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d035096.css",
-    "static/js/main.e9716ddc.js"
+    "static/js/main.b7bffd9c.js"
   ]
 }
